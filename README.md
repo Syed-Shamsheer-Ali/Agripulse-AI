@@ -1,4 +1,4 @@
-# Crop Price AI Agent
+# Crop Price Alert
 
 This project is a FastAPI application designed to provide real-time crop price information and alerts to farmers. It utilizes LangChain for natural language processing and integrates with Twilio for SMS notifications.
 
